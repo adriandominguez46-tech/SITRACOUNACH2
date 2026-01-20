@@ -1,0 +1,7 @@
+{
+  "name": "SITRACOUNACH - Sindicato UNACH",
+  "description": "Sistema de Gestión Laboral para el Sindicato de Trabajadores de Confianza de la Universidad Autónoma de Chiapas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
